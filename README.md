@@ -1,2 +1,3 @@
 # brand-kit
-brand-kit for p0xeidon labs.
+
+p0xeidon labs' brand asset and official logos.
