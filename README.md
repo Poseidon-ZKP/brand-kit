@@ -1,6 +1,6 @@
 # brand-kit
 
-p0xeidon labs' brand asset and official logos.
+Poseidon-ZKP's brand asset and official logos.
 
 <p>For most of the cases, please use the primary logos under svg folder (for vector files) and png folder.</p>
 
